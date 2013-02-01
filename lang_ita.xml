@@ -33,7 +33,7 @@
  </entry>
  <entry>
   <key>virtualservereditdialog.hmessage.array</key>
-  <value>No message (NONE),Show message in Log (LOG),Show modal message (MODAL),Show modal message and exit (MODALQUIT)</value>
+  <value>No messaggio (NONE),Mostra il messaggio in Log (LOG),Mostra messaggio modale (MODAL),Mostra messaggio modale ed esci (MODALQUIT)</value>
  </entry>
  <entry>
   <key>virtualservereditdialog.dialog.info</key>
@@ -157,19 +157,19 @@
  </entry>
  <entry>
   <key>settings.callmessage</key>
-  <value>Away Message</value>
+  <value>Messaggio d'Assenza</value>
  </entry>
  <entry>
   <key>settings.callmessage.text</key>
-  <value>Set your away message</value>
+  <value>Imposta il messaggio d'assenza</value>
  </entry>
  <entry>
   <key>settings.callmessage.edittext</key>
-  <value>On the Phone</value>
+  <value>Sul Telefono</value>
  </entry>
  <entry>
   <key>settings.callstatus</key>
-  <value>Set away during call</value>
+  <value>Imposta assente durante una telefonata</value>
  </entry>
  <entry>
   <key>settings.callstatus.text</key>
@@ -985,43 +985,43 @@
  </entry>
  <entry>
   <key>ident.file.error.text1</key>
-  <value>Invalid or broken file!</value>
+  <value>File invalido o danneggiato!</value>
  </entry>
  <entry>
   <key>ident.file.error.text2</key>
-  <value>The file is gone !?!?</value>
+  <value>Il file è andato !?!?</value>
  </entry>
  <entry>
   <key>ident.file.error.dialog.info</key>
-  <value>Choose file</value>
+  <value>Scegli file</value>
  </entry>
  <entry>
   <key>ident.file.error.dialog.text1</key>
-  <value>Please mount the SD-Card first!</value>
+  <value>Si prega di montare prima la SD-Card!</value>
  </entry>
  <entry>
   <key>ident.file.error.dialog.text2</key>
-  <value>We could not find any *.ini File in %1$s</value>
+  <value>Non possiamo trovare nessun file *.ini in %1$s</value>
  </entry>
  <entry>
   <key>messages.error.securitylevel</key>
-  <value>Insufficient identity security level for this server\nPlease import an identity with at least level %1$s.</value>
+  <value>Insufficiente livello di sicurezza di identità per questo server\nSi prega di importare un identità con almeno il livello %1$s.</value>
  </entry>
  <entry>
   <key>messages.clientoutdated.text1</key>
-  <value>Client Outdated:</value>
+  <value>Client Vecchio:</value>
  </entry>
  <entry>
   <key>messages.clientoutdated.text2</key>
-  <value>This server requires a newer client version.\nPlease visit the Android Market for the latest version.</value>
+  <value>Questo server richiede una versione più recente del client.\nSi prega di visitare l'Android Market per la versione più recente.</value>
  </entry>
  <entry>
   <key>contentdownloader.updateinfo.text</key>
-  <value>Found update for: \n%1$s</value>
+  <value>Trovato un aggiornamento per: \n%1$s</value>
  </entry>
  <entry>
   <key>virtualservereditdialog.name</key>
-  <value>Server name</value>
+  <value>Nome server</value>
  </entry>
  <entry>
   <key>virtualservereditdialog.password</key>
@@ -1029,19 +1029,19 @@
  </entry>
  <entry>
   <key>virtualservereditdialog.hmessage</key>
-  <value>Host Message</value>
+  <value>Messaggio Host</value>
  </entry>
  <entry>
   <key>virtualservereditdialog.wmessage</key>
-  <value>Welcome Message</value>
+  <value>Messaggio di Benvenuto</value>
  </entry>
  <entry>
   <key>virtualservereditdialog.dialog.text</key>
-  <value>Be careful, with this setting. Nobody can connect to this server!</value>
+  <value>Attenzione, con questa impostazione. Nessuno può connettersi a questo server!</value>
  </entry>
  <entry>
   <key>channeldialog.editpreset</key>
-  <value>Voice Mobile,Voice Desktop,Music,Custom</value>
+  <value>Voce Mobile,Voce Desktop,Musica,Personale</value>
  </entry>
  <entry>
   <key>channeldialog.editcodec</key>
@@ -1061,35 +1061,35 @@
  </entry>
  <entry>
   <key>chat.connected</key>
-  <value>Connected to Server: "%1$s"</value>
+  <value>Connesso al Server: "%1$s"</value>
  </entry>
  <entry>
   <key>event.client.ban</key>
-  <value>"%1$s" was banned from the Server by "%2$s"</value>
+  <value>"%1$s" è stato bannato dal server da "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.movemoved.self</key>
-  <value>You were moved to "%1$s" by "%2$s"</value>
+  <value>Sei stato mosso a "%1$s" da "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.movemoved</key>
-  <value>"%1$s" was moved from "%2$s" to channel "%3$s" by "%4$s"</value>
+  <value>"%1$s" è stato mosso da "%2$s" al canale "%3$s" da "%4$s"</value>
  </entry>
  <entry>
   <key>event.client.movemoved.self.info</key>
-  <value>You are now talking in channel: "%1$s"</value>
+  <value>Stai parlando nel canale: "%1$s"</value>
  </entry>
  <entry>
   <key>event.client.move.a</key>
-  <value>"%1$s" connected to channel "%2$s"</value>
+  <value>"%1$s" si è connesso al canale "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.move.b</key>
-  <value>"%1$s" appears, coming from channel "%2$s"</value>
+  <value>"%1$s" appare, proveniente dal canale "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.move.c</key>
-  <value>"%1$s" switched from channel "%2$s" to "%3$s"</value>
+  <value>"%1$s" è passato dal canale "%2$s" al "%3$s"</value>
  </entry>
  <entry>
   <key>event.client.move.d</key>
@@ -1097,23 +1097,23 @@
  </entry>
  <entry>
   <key>event.client.move.e</key>
-  <value>"%1$s" switched from "%2$s" to channel "%3$s"</value>
+  <value>"%1$s" è passato da "%2$s" al canale "%3$s"</value>
  </entry>
  <entry>
   <key>event.client.move.f</key>
-  <value>"%1$s" switched from "%2$s" to channel "%3$s" and disappears</value>
+  <value>"%1$s" è passato da "%2$s" al canale "%3$s" ed è sparito</value>
  </entry>
  <entry>
   <key>event.client.move.self</key>
-  <value>You switched from channel "%1$s" to "%2$s"</value>    
+  <value>Sei passato dal canale "%1$s" al "%2$s"</value>    
  </entry>
  <entry>
   <key>event.client.dropped</key>
-  <value>"%1$s" dropped (connection lost)</value>
+  <value>"%1$s" è caduto (perdita di connessione)</value>
  </entry>
  <entry>
   <key>event.client.kick</key>
-  <value>"%1$s" was kicked from the Server by "%2$s"</value>
+  <value>"%1$s" è stat kickato dal Server da "%2$s"</value>
  </entry>
  <entry>
   <key>event.chat.closed</key>
@@ -1125,75 +1125,75 @@
  </entry>
  <entry>
   <key>event.client.disconnected</key>
-  <value>"%1$s" disconnected (%2$s)</value>
+  <value>"%1$s" disconnesso (%2$s)</value>
  </entry>
  <entry>
   <key>event.client.kicked</key>
-  <value>"%1$s" was kicked from channel "%2$s" by "%3$s"</value>
+  <value>"%1$s" è stato kickato dal canale "%2$s" da "%3$s"</value>
  </entry>
  <entry>
   <key>event.client.kicked.self</key>
-  <value>You were kicked from channel "%1$s" by "%2$s"</value>
+  <value>Sei stato kickato dal canale "%1$s" da "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.kicked.reason</key>
-  <value>"%1$s" was kicked from channel "%2$s" by "%3$s" (%4$s)</value>
+  <value>"%1$s" è stato kickato dal canale "%2$s" da "%3$s" (%4$s)</value>
  </entry>
  <entry>
   <key>event.client.kicked.self.reason</key>
-  <value>You were kicked from channel "%1$s" by "%2$s" (%3$s)</value>
+  <value>Sei stato kickato dal canale "%1$s" da "%2$s" (%3$s)</value>
  </entry>
  <entry>
   <key>event.channel.moved</key>
-  <value>Channel "%1$s" was moved by "%2$s", new parent channel is "%3$s".</value>
+  <value>Il canale "%1$s" è stato mosso da "%2$s", il nuovo canale padre è "%3$s".</value>
  </entry>
  <entry>
   <key>event.channel.moved.self</key>
-  <value>Channel "%1$s" was moved, new parent channel is "%2$s".</value>
+  <value>Il canale "%1$s" è stato mosso, il nuovo canale padre è "%2$s".</value>
  </entry>
  <entry>
   <key>event.channel.edit</key>
-  <value>Channel "%1$s" was edited by "%2$s"</value>
+  <value>Il canale "%1$s" è stato modificato da "%2$s"</value>
  </entry>
  <entry>
   <key>event.channel.edit.self</key>
-  <value>Channel "%1$s" edited successfully</value>
+  <value>Il canale "%1$s" è stato modificato con successo</value>
  </entry>
  <entry>
   <key>event.channel.deleted</key>
-  <value>Channel "%1$s" was deleted by "%2$s"</value>
+  <value>Il canale "%1$s" è stato eliminato da "%2$s"</value>
  </entry>
  <entry>
   <key>event.channel.deleted.self</key>
-  <value>Channel "%1$s" was deleted</value>
+  <value>Il canale "%1$s" è stato cancellato</value>
  </entry>
  <entry>
   <key>event.group.channel.assigned</key>
-  <value>Channel group "%1$s" was assigned to "%2$s" by %3$s.</value>
+  <value>Il gruppo canale "%1$s" è stato assegnato a "%2$s" da %3$s.</value>
  </entry>
  <entry>
   <key>event.group.server.assigned</key>
-  <value>"%1$s" was added to server group "%2$s" by "%3$s".</value>
+  <value>"%1$s" è stato aggiunto al gruppo server "%2$s" da "%3$s".</value>
   </entry>
  <entry>
   <key>event.group.server.deleted</key>
-  <value>"%1$s" was removed from server group "%2$s" by "%3$s".</value>
+  <value>"%1$s" è stato rimosso dal gruppo server "%2$s" da "%3$s".</value>
  </entry>
  <entry>
   <key>settings.reconnect.limit</key>
-  <value>Reconnect</value>
+  <value>Riconnettiti</value>
  </entry>
  <entry>
   <key>settings.reconnect.limit.text</key>
-  <value>Retry count (0 = no reconnect)</value>
+  <value>Conteggio tentativi (0 = no riconnessione)</value>
  </entry>
  <entry>
   <key>critical.payment</key>
-  <value>Critical Payment Error!</value>
+  <value>Errore Critico del Pagamento!</value>
  </entry>
  <entry>
   <key>critical.payment.text</key>
-  <value>Google could not verify your paymentstatus: %1$d\nPlease try again later or visit the Android Market!</value>
+  <value>Google non può verificare il tuo stato di pagamento: %1$d\nPerfavore riprova più tardi o visita l'Android Market!</value>
  </entry>
  <entry>
   <key>contact.avatar.ignored</key>
@@ -1201,14 +1201,14 @@
  </entry>
  <entry>
   <key>connection.reconnect</key>
-  <value>Reconnect Failed</value>
+  <value>Riconnessione Fallita</value>
  </entry> 
  <entry>
   <key>connection.reconnect.retry</key>
-  <value>Reconnect...</value>
+  <value>Ricollegamento...</value>
  </entry> 
  <entry>
   <key>connection.reconnect.text</key>
-  <value>Reconnect failed after %1$d retrys</value>
+  <value>Riconnessione fallita dopo %1$d tentativi</value>
  </entry>
 </lang>
