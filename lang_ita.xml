@@ -1,0 +1,1214 @@
+<settings>
+  <lng>English</lng>
+  <translator>TeamSpeak Systems GmbH</translator>
+</settings>
+<lang>
+ <entry>
+  <key>button.ok</key>
+  <value>OK</value>
+ </entry>
+ <entry>
+  <key>button.cancel</key>
+  <value>Annulla</value>
+ </entry>
+ <entry>
+  <key>button.close</key>
+  <value>Chiudi</value>
+ </entry>
+ <entry>
+  <key>button.edit</key>
+  <value>Modifica</value>
+ </entry>
+ <entry>
+  <key>button.delete</key>
+  <value>Elimina</value>
+ </entry>
+ <entry>
+  <key>button.exit</key>
+  <value>Esci</value>
+ </entry>
+ <entry>
+  <key>button.save</key>
+  <value>Salva</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.hmessage.array</key>
+  <value>No message (NONE),Show message in Log (LOG),Show modal message (MODAL),Show modal message and exit (MODALQUIT)</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.dialog.info</key>
+  <value>Hai selezionato MODALQUIT!</value>
+ </entry>
+ <entry>
+  <key>critical.audio</key>
+  <value>Errore Critico!</value>
+ </entry>
+ <entry>
+  <key>critical.audio.text</key>
+  <value>Non è stato trovato alcun dispositivo audio compatibile. Perfavore visita il nostro forum @ www.teamspeak.com in modo da poter estendere i nostri dispositivi supportati</value>
+ </entry>
+ <entry>
+  <key>bookmark.listbookmark.newentry</key>
+  <value>Nuovo Segnalibro</value>
+ </entry>
+ <entry>
+  <key>bookmark.listbookmark.delete</key>
+  <value>Elimina Segnalibro</value>
+ </entry>
+ <entry>
+  <key>bookmark.listbookmark.delete.text</key>
+  <value>Sei sicuro di voler rimuovere "%1$s" dai tuoi segnalibri?</value>
+ </entry>
+ <entry>
+  <key>bookmark.listbookmark.options</key>
+  <value>Opzioni</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.label</key>
+  <value>Etichetta:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.serveraddress</key>
+  <value>Indirizzo:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.serverpassword</key>
+  <value>PW Server:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.nickname</key>
+  <value>Nick:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.defaultchannel</key>
+  <value>Canale:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.defaultchannelpassword</key>
+  <value>Chan-PW:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.ident</key>
+  <value>Identità:</value>
+ </entry>
+ <entry>
+  <key>bookmark.entry.title</key>
+  <value>Segnalibro</value>
+ </entry>
+ <entry>
+  <key>settings.language</key>
+  <value>Lingua</value>
+ </entry>
+ <entry>
+  <key>settings.language.text</key>
+  <value>Richiede un riavvio!</value>
+ </entry>
+ <entry>
+  <key>settings.avatarlimit</key>
+  <value>Limite Avatar</value>
+ </entry>
+ <entry>
+  <key>settings.avatarlimit.text</key>
+  <value>Limitare le dimensioni avatar su connessione mobile in kb(Richiede Server >=3.0.7)</value>
+ </entry>
+ <entry>
+  <key>settings.ptt</key>
+  <value>Usa il Push-To-Talk</value>
+ </entry>
+ <entry>
+  <key>settings.ptt.text</key>
+  <value>Abilita il Push-To-Talk</value>
+ </entry>
+ <entry>
+  <key>settings.val</key>
+  <value>Livello attivazione voce</value>
+ </entry>
+ <entry>
+  <key>settings.val.text</key>
+  <value>Rilevamento livello attività vocale in decibel</value>
+ </entry>
+ <entry>
+  <key>settings.handfree</key>
+  <value>Senza mani</value>
+ </entry>
+ <entry>
+  <key>settings.handfree.text</key>
+  <value>Utilizzare Altoparlante per uscita audio</value>
+ </entry>
+ <entry>
+  <key>settings.handfree.warn</key>
+  <value>Questo può, a seconda del dispositivo, impattare la tua esperienza audio</value>
+ </entry>
+ <entry>
+  <key>settings.bt</key>
+  <value>Usa il Bluetooth</value>
+ </entry>
+ <entry>
+  <key>settings.bt.text</key>
+  <value>Se un dispositivo BT è presente noi proveremo ad usarlo</value>
+ </entry>
+ <entry>
+  <key>settings.soundpack</key>
+  <value>Pacchetto Suoni</value>
+ </entry>
+ <entry>
+  <key>settings.soundpack.text</key>
+  <value>Selezionare il Pacchetto Suoni desiderato</value>
+ </entry>
+ <entry>
+  <key>settings.callmessage</key>
+  <value>Away Message</value>
+ </entry>
+ <entry>
+  <key>settings.callmessage.text</key>
+  <value>Set your away message</value>
+ </entry>
+ <entry>
+  <key>settings.callmessage.edittext</key>
+  <value>On the Phone</value>
+ </entry>
+ <entry>
+  <key>settings.callstatus</key>
+  <value>Set away during call</value>
+ </entry>
+ <entry>
+  <key>settings.callstatus.text</key>
+  <value>Set an away message during a Phonecall</value>
+ </entry>
+ <entry>
+  <key>settings.channelheight</key>
+  <value>Altezza canale</value>
+ </entry>
+ <entry>
+  <key>settings.channelheight.text</key>
+  <value>Set the height between channel</value>
+ </entry>
+ <entry>
+  <key>settings.clientheight</key>
+  <value>Client height</value>
+ </entry>
+ <entry>
+  <key>settings.clientheight.text</key>
+  <value>Set the height between clients</value>
+ </entry>
+ <entry>
+  <key>settings.seperator</key>
+  <value>Horizontal line</value>
+ </entry>
+ <entry>
+  <key>settings.seperator.text</key>
+  <value>Mostra le linee orizzontali</value>
+ </entry>
+ <entry>
+  <key>settings.queryclient</key>
+  <value>Display or hide the ServerQuery client in the TreeView</value>
+ </entry>
+ <entry>
+  <key>settings.queryclient.text</key>
+  <value>Display or hide the ServerQuery client in the TreeView</value>
+ </entry>
+ <entry>
+  <key>settings.flags</key>
+  <value>Country Flags</value>
+ </entry>
+ <entry>
+  <key>settings.flags.text</key>
+  <value>Mostra le bandiere dei client</value>
+ </entry>
+ <entry>
+  <key>settings.proximity</key>
+  <value>Sensore di Prossimità</value>
+ </entry>
+ <entry>
+  <key>settings.proximity.text</key>
+  <value>Use the proximity sensor to turn your display off</value>
+ </entry>
+ <entry>
+  <key>settings.spacer.audio</key>
+  <value>Audio</value>
+ </entry>
+ <entry>
+  <key>settings.spacer.call</key>
+  <value>Chiamate</value>
+ </entry>
+ <entry>
+  <key>settings.spacer.gui</key>
+  <value>Interfaccia</value>
+ </entry>
+ <entry>
+  <key>menu.copyright.text</key>
+  <value>Copyright:</value>
+ </entry>
+ <entry>
+  <key>menu.copyright</key>
+  <value>Copyrights</value>
+ </entry>
+ <entry>
+  <key>menu.identity</key>
+  <value>Idendità</value>
+ </entry>
+ <entry>
+  <key>menu.contact</key>
+  <value>Contatti</value>
+ </entry>
+ <entry>
+  <key>menu.createchannel</key>
+  <value>Crea Canale</value>
+ </entry>
+ <entry>
+  <key>menu.createchannel.text</key>
+  <value>Crea Canale dopo:</value>
+ </entry>
+ <entry>
+  <key>menu.createsubchannel</key>
+  <value>Create Sub-Channel</value>
+ </entry>
+ <entry>
+  <key>menu.createsubchannel.text</key>
+  <value>Create a Sub-Channel in:</value>
+ </entry>
+ <entry>
+  <key>menu.away.set</key>
+  <value>Set Away</value>
+ </entry>
+ <entry>
+  <key>menu.away.revoke</key>
+  <value>Return</value>
+ </entry>
+ <entry>
+  <key>menu.away.text</key>
+  <value>Away Reason:</value>
+ </entry>
+ <entry>
+  <key>menu.temporarypasswords</key>
+  <value>Passwords Temporanee</value>
+ </entry>
+ <entry>
+  <key>menu.talkpower.request</key>
+  <value>Request Talk Power</value>
+ </entry>
+ <entry>
+  <key>menu.talkpower.cancel</key>
+  <value>Cancel Talk Power request</value>
+ </entry>
+ <entry>
+  <key>menu.talkpower.reason.text</key>
+  <value>Motivazione:</value>
+ </entry>
+ <entry>
+  <key>menu.talkpower.reason</key>
+  <value>Richiedi il Potere di Parlare</value>
+ </entry>
+ <entry>
+  <key>menu.privkey</key>
+  <value>Use Privilege Key</value>
+ </entry>
+ <entry>
+  <key>chat.newmessages</key>
+  <value>Nuovo/i Messaggio/i</value>
+ </entry>
+ <entry>
+  <key>contact.delete.info</key>
+  <value>Delete Contact</value>
+ </entry>
+ <entry>
+  <key>contact.delete.text</key>
+  <value>Do you want to delete %1$s ?</value>
+ </entry>
+ <entry>
+  <key>codec.warning</key>
+  <value>Requires 3G or better</value>
+ </entry>
+ <entry>
+  <key>blacklist.warning</key>
+  <value>This Server is blacklisted</value>
+ </entry>
+ <entry>
+  <key>blacklist.text</key>
+  <value>This server is blacklisted. Refusing to connect.</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.error</key>
+  <value>An error occurred!</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.info</key>
+  <value>Downloading...</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.extracting</key>
+  <value>Extracting %1$s</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.wlan</key>
+  <value>Please connect to a WLAN</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.updateinfo.info</key>
+  <value>Content Update</value>
+ </entry>
+ <entry>
+  <key>dialog.virtualserver.edit.info</key>
+  <value>Edit Virtual Server</value>
+ </entry>
+ <entry>
+  <key>dialog.virtualserver.edit.text</key>
+  <value>Server "%1$s" is selected</value>
+ </entry>
+ <entry>
+  <key>dialog.virtualserver.edit.buttonpw</key>
+  <value>Temp Password</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.join.text</key>
+  <value>Join Channel</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.info.text</key>
+  <value>Channel Info</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.edit.text</key>
+  <value>Edit Channel</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.delete.warn1</key>
+  <value>There are clients inside this channel.\nReally delete this channel\nand kick all clients out of it?</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.delete.warn2</key>
+  <value>There are subchannel(s) inside this channel.\nReally delete them all?</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.delete.warn3</key>
+  <value>Really delete this channel?</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.delete.dialog.text</key>
+  <value>Delete Channel: %1$s</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.delete.text</key>
+  <value>Delete Channel</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.move.text</key>
+  <value>Move Channel</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.move.info</key>
+  <value>Move Channel: %1$s</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.move.info1</key>
+  <value>Place Below</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.move.info2</key>
+  <value>Place Inside</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.subscribe.text1</key>
+  <value>Subscribe</value>
+ </entry>
+ <entry>
+  <key>dialog.channel.subscribe.text2</key>
+  <value>Unsubscribe</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editname</key>
+  <value>Name:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editpassword</key>
+  <value>Password:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.edittopic</key>
+  <value>Topic:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editdesc</key>
+  <value>Description:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editdesc.dialog</key>
+  <value>Description</value>
+ </entry>
+ <entry>
+  <key>channeldialog.edittype</key>
+  <value>Channel Type:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.edittype.spinner</key>
+  <value>Temporary,Semi-Permanent,Permanent</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editdefault</key>
+  <value>Default:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editpreset.text</key>
+  <value>Preset:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editcodec.text</key>
+  <value>Codec:</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editquality.text</key>
+  <value>Quality:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.info</key>
+  <value>Ban</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.name</key>
+  <value>Name/ID:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.reason</key>
+  <value>Reason:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.duration</key>
+  <value>Duration:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.duration.array</key>
+  <value>Minute(s),Hour(s),Day(s),Permanent</value>
+ </entry>
+ <entry>
+  <key>clientdialog.ban.button</key>
+  <value>Ban</value>
+ </entry>
+ <entry>
+  <key>clientdialog.complain.text</key>
+  <value>Complain over %1$s \nReason:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.complain.info</key>
+  <value>Complain</value>
+ </entry>
+ <entry>
+  <key>clientdialog.kick.text.server</key>
+  <value>Kick %1$s from server! \nReason:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.kick.text.channel</key>
+  <value>Kick %1$s from channel! \nReason:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.kick.info</key>
+  <value>Kick</value>
+ </entry>
+ <entry>
+  <key>clientdialog.poke.text</key>
+  <value>Poke %1$s \nMessage:</value>
+ </entry>
+ <entry>
+  <key>clientdialog.poke.info</key>
+  <value>Poke</value>
+ </entry>
+ <entry>
+  <key>dialog.client.contact.text</key>
+  <value>Contact</value>
+ </entry>
+ <entry>
+  <key>dialog.client.info.text</key>
+  <value>Client Info</value>
+ </entry>
+ <entry>
+  <key>dialog.client.poke.text</key>
+  <value>Poke</value>
+ </entry>
+ <entry>
+  <key>dialog.client.complain.text</key>
+  <value>Complain</value>
+ </entry>
+ <entry>
+  <key>dialog.client.mute.text1</key>
+  <value>Mute</value>
+ </entry>
+ <entry>
+  <key>dialog.client.mute.text2</key>
+  <value>Unmute</value>
+ </entry>
+ <entry>
+  <key>dialog.client.ban.text</key>
+  <value>Ban</value>
+ </entry>
+ <entry>
+  <key>dialog.client.kickserver.text</key>
+  <value>Kick from server</value>
+ </entry>
+ <entry>
+  <key>dialog.client.kickchannel.text</key>
+  <value>Kick from channel</value>
+ </entry>
+ <entry>
+  <key>dialog.client.priorityspeaker.text</key>
+  <value>Priority Speaker</value>
+ </entry>
+ <entry>
+  <key>dialog.client.move.text</key>
+  <value>Move Client</value>
+ </entry>
+ <entry>
+  <key>dialog.client.move.dialog.info</key>
+  <value>Move</value>
+ </entry>
+ <entry>
+  <key>dialog.client.move.dialog.text</key>
+  <value>Move Client:</value>
+ </entry>
+ <entry>
+  <key>dialog.client.chat.text</key>
+  <value>Open Chat</value>
+ </entry>
+ <entry>
+  <key>dialog.client.talkpower.text1</key>
+  <value>Grant Talk Power</value>
+ </entry>
+ <entry>
+  <key>dialog.client.talkpower.text2</key>
+  <value>Revoke Talk Power</value>
+ </entry>
+ <entry>
+  <key>dialog.client.group.text</key>
+  <value>Set Groups</value>
+ </entry>
+ <entry>
+  <key>groupdialog.servertext</key>
+  <value>Server Group:</value>
+ </entry>
+ <entry>
+  <key>groupdialog.channeltext</key>
+  <value>Channel Group:</value>
+ </entry>
+ <entry>
+  <key>temppass.entry.text</key>
+  <value>Pass: %1$s</value>
+ </entry>
+ <entry>
+  <key>temppass.entry.until</key>
+  <value>Until: %1$s</value>
+ </entry>
+ <entry>
+  <key>temppass.title</key>
+  <value>Temporary Password</value>
+ </entry>
+ <entry>
+  <key>temppass.create.password</key>
+  <value>Password:</value>
+ </entry>
+ <entry>
+  <key>temppass.create.description</key>
+  <value>Description:</value>
+ </entry>
+ <entry>
+  <key>temppass.create.duration</key>
+  <value>Expires after:</value>
+ </entry>
+ <entry>
+  <key>temppass.create.channel</key>
+  <value>Channel:</value>
+ </entry>
+ <entry>
+  <key>temppass.create.channelpw</key>
+  <value>Channel password:</value>
+ </entry>
+ <entry>
+  <key>temppass.create.notarget</key>
+  <value>-- NO TARGET CHANNEL --</value>
+ </entry>
+ <entry>
+  <key>temppass.create.duration.array</key>
+  <value>Day(s),Hour(s),Minute(s)</value>
+ </entry>
+ <entry>
+  <key>temppass.info.password</key>
+  <value>Password:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.creator</key>
+  <value>Creator:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.channel</key>
+  <value>Channel:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.channelpassword</key>
+  <value>Channel password:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.valid</key>
+  <value>Valid:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.description</key>
+  <value>Description:</value>
+ </entry>
+ <entry>
+  <key>temppass.info.button.share</key>
+  <value>Share</value>
+ </entry>
+ <entry>
+  <key>contact.settings.name</key>
+  <value>Custom Name:</value>
+ </entry>
+ <entry>
+  <key>contact.settings.display</key>
+  <value>Display:</value>
+ </entry>
+ <entry>
+  <key>contact.settings.ignore</key>
+  <value>Ignore:</value>
+ </entry>
+ <entry>
+  <key>contact.settings.whisper</key>
+  <value>Whisper:</value>
+ </entry>
+ <entry>
+  <key>contact.settings.whisper.allow</key>
+  <value>Allow</value>
+ </entry>
+ <entry>
+  <key>contact.settings.whisper.deny</key>
+  <value>Deny</value>
+ </entry>
+ <entry>
+  <key>contact.settings.mute</key>
+  <value>Mute</value>
+ </entry>
+ <entry>
+  <key>contact.settings.ignorepublicchat</key>
+  <value>Ignore public chat</value>
+ </entry>
+ <entry>
+  <key>contact.settings.ignoreprivatechat</key>
+  <value>Ignore private chat</value>
+ </entry>
+ <entry>
+  <key>contact.settings.ignorepokes</key>
+  <value>Ignore pokes</value>
+ </entry>
+ <entry>
+  <key>contact.settings.hideavatar</key>
+  <value>Hide avatar</value>
+ </entry>
+ <entry>
+  <key>contact.settings.hideaway</key>
+  <value>Hide away status </value>
+ </entry>
+ <entry>
+  <key>contact.settings.status.array</key>
+  <value>Neutral,Blocked,Friend</value>
+ </entry>
+ <entry>
+  <key>contact.settings.display.array</key>
+  <value>Custom and Nickname,Only Custom Name,Only Nickname</value>
+ </entry>
+ <entry>
+  <key>contact.settings.info</key>
+  <value>Contact: %1$s</value>
+ </entry>
+ <entry>
+  <key>passworddialog.info</key>
+  <value>Join %1$s</value>
+ </entry>
+ <entry>
+  <key>passworddialog.text</key>
+  <value>Enter the password for %1$s:</value>
+ </entry>
+ <entry>
+  <key>identity.info</key>
+  <value>Delete Identity</value>
+ </entry>
+ <entry>
+  <key>identity.text</key>
+  <value>Are you sure you want to remove this Identity?</value>
+ </entry>
+ <entry>
+  <key>channelinfo.name</key>
+  <value>Name:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.topic</key>
+  <value>Topic:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec</key>
+  <value>Codec:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codecquality</key>
+  <value>Codec Quality:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.type</key>
+  <value>Type:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.currentclients</key>
+  <value>Current Clients:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.subscription</key>
+  <value>Subscription Status:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.description</key>
+  <value>Description:</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.1</key>
+  <value>Speex Narrowband</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.2</key>
+  <value>Speex Wideband</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.3</key>
+  <value>Speex Ultra-Wideband</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.4</key>
+  <value>CELT Mono</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.5</key>
+  <value>Opus Voice</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.6</key>
+  <value>Opus Music</value>
+ </entry>
+ <entry>
+  <key>channelinfo.codec.error</key>
+  <value>Error</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.default</key>
+  <value>Default</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.permanent</key>
+  <value>Permanent</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.semipermanent</key>
+  <value>Semi-Permanent</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.password</key>
+  <value>Password</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.subscribed</key>
+  <value>subscribed</value>
+ </entry>
+ <entry>
+  <key>channelinfo.value.notsubscribed</key>
+  <value>not subscribed</value>
+ </entry>
+ <entry>
+  <key>clientinfo.nickname</key>
+  <value>Nickname:</value>
+ </entry>
+ <entry>
+  <key>clientinfo.version</key>
+  <value>Version:</value>
+ </entry>
+ <entry>
+  <key>clientinfo.connected</key>
+  <value>Online since:</value>
+ </entry>
+ <entry>
+  <key>clientinfo.sgroup</key>
+  <value>Server Groups:</value>
+ </entry>
+ <entry>
+  <key>clientinfo.cgroup</key>
+  <value>Channel Group:</value>
+ </entry>
+ <entry>
+  <key>clientinfo.value.grouperror</key>
+  <value>Missing group %1$s</value>
+ </entry>
+ <entry>
+  <key>clientinfo.value.talkpower</key>
+  <value>Client requested Talk Power at %1$s \n(%2$s)\n</value>
+ </entry>
+ <entry>
+  <key>disconnect.info</key>
+  <value>Disconnect!</value>
+ </entry>
+ <entry>
+  <key>disconnect.text</key>
+  <value>Really disconnect from server?</value>
+ </entry>
+ <entry>
+  <key>disconnect.button</key>
+  <value>Disconnect</value>
+ </entry>
+ <entry>
+  <key>connectiondialog.info</key>
+  <value>Connecting...</value>
+ </entry>
+ <entry>
+  <key>connectiondialog.step0</key>
+  <value>Trying to connect</value>
+ </entry>
+ <entry>
+  <key>connectiondialog.step1</key>
+  <value>Connected</value>
+ </entry>
+ <entry>
+  <key>connectiondialog.step2</key>
+  <value>Loading channel</value>
+ </entry>
+ <entry>
+  <key>connectiondialog.step3</key>
+  <value>Loading user</value>
+ </entry>
+ <entry>
+  <key>gui.extern.info</key>
+  <value>TS3 URL</value>
+ </entry>
+ <entry>
+  <key>gui.extern.text</key>
+  <value>Found the following host:\n%1$s</value>
+ </entry>
+ <entry>
+  <key>gui.extern.button1</key>
+  <value>Connect</value>
+ </entry>
+ <entry>
+  <key>gui.extern.button2</key>
+  <value>Bookmark</value>
+ </entry>
+ <entry>
+  <key>messages.newserver.text</key>
+  <value>This is a newly configured server for which administrator privileges have not been claimed.\nPlease enter the Privilege Key that was automatically generated when this server was created to gain administrator privileges</value>
+ </entry>
+ <entry>
+  <key>messages.newserver.info</key>
+  <value>Use Privilege Key</value>
+ </entry>
+ <entry>
+  <key>messages.hostmessage</key>
+  <value>Host Message</value>
+ </entry>
+ <entry>
+  <key>messages.notification.info</key>
+  <value>Connected</value>
+ </entry>
+ <entry>
+  <key>messages.notification.text</key>
+  <value>You are connected to:</value>
+ </entry>
+ <entry>
+  <key>messages.servershutdown.text</key>
+  <value>Server shutdown</value>
+ </entry>
+ <entry>
+  <key>messages.serverpermission.text</key>
+  <value>Server Permission</value>
+ </entry>
+ <entry>
+  <key>messages.pwerror.text</key>
+  <value>Wrong password</value>
+ </entry>
+ <entry>
+  <key>messages.clienterror.text</key>
+  <value>Client error</value>
+ </entry>
+ <entry>
+  <key>messages.channelerror.text</key>
+  <value>Channel error</value>
+ </entry>
+ <entry>
+  <key>messages.error.text</key>
+  <value>Error</value>
+ </entry>
+ <entry>
+  <key>messages.permerror.text</key>
+  <value>Permission Error</value>
+ </entry>
+ <entry>
+  <key>messages.conerror.text</key>
+  <value>Connection Error</value>
+ </entry>
+ <entry>
+  <key>messages.disconnected.text</key>
+  <value>Disconnected</value>
+ </entry>
+ <entry>
+  <key>messages.disconnected.info</key>
+  <value>Connection Status</value>
+ </entry>
+ <entry>
+  <key>messages.ban.text</key>
+  <value>Banned by: "%1$s"\nDuration: "%2$s"\nReason: "(%3$s)"</value>
+ </entry>
+ <entry>
+  <key>messages.ban.text.permanent</key>
+  <value>You are banned permanently. Reason: "(%1$s)"</value>
+ </entry>
+ <entry>
+  <key>messages.ban.info</key>
+  <value>Banned from server</value>
+ </entry>
+ <entry>
+  <key>messages.kicked.info</key>
+  <value>Kicked from server</value>
+ </entry>
+ <entry>
+  <key>messages.poke.info</key>
+  <value>Poke from %1$s</value>
+ </entry>
+ <entry>
+  <key>settings.clientclick</key>
+  <value>Long click on client</value>
+ </entry>
+ <entry>
+  <key>settings.clientclick.text</key>
+  <value>Disable this for dragging a user left or right</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.info</key>
+  <value>Error</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.text1</key>
+  <value>Invalid or broken file!</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.text2</key>
+  <value>The file is gone !?!?</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.dialog.info</key>
+  <value>Choose file</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.dialog.text1</key>
+  <value>Please mount the SD-Card first!</value>
+ </entry>
+ <entry>
+  <key>ident.file.error.dialog.text2</key>
+  <value>We could not find any *.ini File in %1$s</value>
+ </entry>
+ <entry>
+  <key>messages.error.securitylevel</key>
+  <value>Insufficient identity security level for this server\nPlease import an identity with at least level %1$s.</value>
+ </entry>
+ <entry>
+  <key>messages.clientoutdated.text1</key>
+  <value>Client Outdated:</value>
+ </entry>
+ <entry>
+  <key>messages.clientoutdated.text2</key>
+  <value>This server requires a newer client version.\nPlease visit the Android Market for the latest version.</value>
+ </entry>
+ <entry>
+  <key>contentdownloader.updateinfo.text</key>
+  <value>Found update for: \n%1$s</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.name</key>
+  <value>Server name</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.password</key>
+  <value>Password</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.hmessage</key>
+  <value>Host Message</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.wmessage</key>
+  <value>Welcome Message</value>
+ </entry>
+ <entry>
+  <key>virtualservereditdialog.dialog.text</key>
+  <value>Be careful, with this setting. Nobody can connect to this server!</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editpreset</key>
+  <value>Voice Mobile,Voice Desktop,Music,Custom</value>
+ </entry>
+ <entry>
+  <key>channeldialog.editcodec</key>
+  <value>Speex Narrowband,Speex Wideband,Speex Ultra-Wideband,CELT Mono,Opus Voice,Opus Music</value>
+ </entry>
+ <entry>
+  <key>channelinfo.desc.permerror</key>
+  <value>***You don't have the permission to view the description of this channel***</value>
+ </entry>
+ <entry>
+  <key>messages.forceptt.text</key>
+  <value>Forced Push-To-Talk</value>
+ </entry>
+ <entry>
+  <key>messages.forceptt.on</key>
+  <value>Turning Push-To-Talk on, "forced-push-to-talk" permission was assigned.</value>
+ </entry>
+ <entry>
+  <key>chat.connected</key>
+  <value>Connected to Server: "%1$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.ban</key>
+  <value>"%1$s" was banned from the Server by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.movemoved.self</key>
+  <value>You were moved to "%1$s" by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.movemoved</key>
+  <value>"%1$s" was moved from "%2$s" to channel "%3$s" by "%4$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.movemoved.self.info</key>
+  <value>You are now talking in channel: "%1$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.a</key>
+  <value>"%1$s" connected to channel "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.b</key>
+  <value>"%1$s" appears, coming from channel "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.c</key>
+  <value>"%1$s" switched from channel "%2$s" to "%3$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.d</key>
+  <value>"%1$s" left heading to channel "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.e</key>
+  <value>"%1$s" switched from "%2$s" to channel "%3$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.move.f</key>
+  <value>"%1$s" switched from "%2$s" to channel "%3$s" and disappears</value>
+ </entry>
+ <entry>
+  <key>event.client.move.self</key>
+  <value>You switched from channel "%1$s" to "%2$s"</value>    
+ </entry>
+ <entry>
+  <key>event.client.dropped</key>
+  <value>"%1$s" dropped (connection lost)</value>
+ </entry>
+ <entry>
+  <key>event.client.kick</key>
+  <value>"%1$s" was kicked from the Server by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.chat.closed</key>
+  <value>Chat partner has closed the conversation</value>
+ </entry>
+ <entry>
+  <key>messages.forceptt.off</key>
+  <value>Turning voice activation on, "forced-push-to-talk" permission has been removed.</value>
+ </entry>
+ <entry>
+  <key>event.client.disconnected</key>
+  <value>"%1$s" disconnected (%2$s)</value>
+ </entry>
+ <entry>
+  <key>event.client.kicked</key>
+  <value>"%1$s" was kicked from channel "%2$s" by "%3$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.kicked.self</key>
+  <value>You were kicked from channel "%1$s" by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.client.kicked.reason</key>
+  <value>"%1$s" was kicked from channel "%2$s" by "%3$s" (%4$s)</value>
+ </entry>
+ <entry>
+  <key>event.client.kicked.self.reason</key>
+  <value>You were kicked from channel "%1$s" by "%2$s" (%3$s)</value>
+ </entry>
+ <entry>
+  <key>event.channel.moved</key>
+  <value>Channel "%1$s" was moved by "%2$s", new parent channel is "%3$s".</value>
+ </entry>
+ <entry>
+  <key>event.channel.moved.self</key>
+  <value>Channel "%1$s" was moved, new parent channel is "%2$s".</value>
+ </entry>
+ <entry>
+  <key>event.channel.edit</key>
+  <value>Channel "%1$s" was edited by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.channel.edit.self</key>
+  <value>Channel "%1$s" edited successfully</value>
+ </entry>
+ <entry>
+  <key>event.channel.deleted</key>
+  <value>Channel "%1$s" was deleted by "%2$s"</value>
+ </entry>
+ <entry>
+  <key>event.channel.deleted.self</key>
+  <value>Channel "%1$s" was deleted</value>
+ </entry>
+ <entry>
+  <key>event.group.channel.assigned</key>
+  <value>Channel group "%1$s" was assigned to "%2$s" by %3$s.</value>
+ </entry>
+ <entry>
+  <key>event.group.server.assigned</key>
+  <value>"%1$s" was added to server group "%2$s" by "%3$s".</value>
+  </entry>
+ <entry>
+  <key>event.group.server.deleted</key>
+  <value>"%1$s" was removed from server group "%2$s" by "%3$s".</value>
+ </entry>
+ <entry>
+  <key>settings.reconnect.limit</key>
+  <value>Reconnect</value>
+ </entry>
+ <entry>
+  <key>settings.reconnect.limit.text</key>
+  <value>Retry count (0 = no reconnect)</value>
+ </entry>
+ <entry>
+  <key>critical.payment</key>
+  <value>Critical Payment Error!</value>
+ </entry>
+ <entry>
+  <key>critical.payment.text</key>
+  <value>Google could not verify your paymentstatus: %1$d\nPlease try again later or visit the Android Market!</value>
+ </entry>
+ <entry>
+  <key>contact.avatar.ignored</key>
+  <value><avatar ignored></value>
+ </entry>
+ <entry>
+  <key>connection.reconnect</key>
+  <value>Reconnect Failed</value>
+ </entry> 
+ <entry>
+  <key>connection.reconnect.retry</key>
+  <value>Reconnect...</value>
+ </entry> 
+ <entry>
+  <key>connection.reconnect.text</key>
+  <value>Reconnect failed after %1$d retrys</value>
+ </entry>
+</lang>
