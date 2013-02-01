@@ -85,7 +85,7 @@
  </entry>
  <entry>
   <key>bookmark.entry.defaultchannelpassword</key>
-  <value>PW-Can:</value>
+  <value>PW Canale:</value>
  </entry>
  <entry>
   <key>bookmark.entry.ident</key>
@@ -181,11 +181,11 @@
  </entry>
  <entry>
   <key>settings.channelheight.text</key>
-  <value>Set the height between channel</value>
+  <value>Imposta l'altezza tra i canali</value>
  </entry>
  <entry>
   <key>settings.clientheight</key>
-  <value>Client height</value>
+  <value>Altezza client</value>
  </entry>
  <entry>
   <key>settings.clientheight.text</key>
@@ -201,15 +201,15 @@
  </entry>
  <entry>
   <key>settings.queryclient</key>
-  <value>Display or hide the ServerQuery client in the TreeView</value>
+  <value>Mostra o nascondi il client ServerQuery nella TreeView</value>
  </entry>
  <entry>
   <key>settings.queryclient.text</key>
-  <value>Display or hide the ServerQuery client in the TreeView</value>
+  <value>Mostra o nascondi il client ServerQuery nella TreeView</value>
  </entry>
  <entry>
   <key>settings.flags</key>
-  <value>Country Flags</value>
+  <value>Bandiere Nazioni</value>
  </entry>
  <entry>
   <key>settings.flags.text</key>
@@ -221,7 +221,7 @@
  </entry>
  <entry>
   <key>settings.proximity.text</key>
-  <value>Use the proximity sensor to turn your display off</value>
+  <value>Usa il sensore di prossimità per spegnere il display</value>
  </entry>
  <entry>
   <key>settings.spacer.audio</key>
@@ -261,23 +261,23 @@
  </entry>
  <entry>
   <key>menu.createsubchannel</key>
-  <value>Create Sub-Channel</value>
+  <value>Crea Sotto-Canale</value>
  </entry>
  <entry>
   <key>menu.createsubchannel.text</key>
-  <value>Create a Sub-Channel in:</value>
+  <value>Crea un Sotto-Canale in:</value>
  </entry>
  <entry>
   <key>menu.away.set</key>
-  <value>Set Away</value>
+  <value>Imposta Assente</value>
  </entry>
  <entry>
   <key>menu.away.revoke</key>
-  <value>Return</value>
+  <value>Ritorna</value>
  </entry>
  <entry>
   <key>menu.away.text</key>
-  <value>Away Reason:</value>
+  <value>Motivazione Assenza:</value>
  </entry>
  <entry>
   <key>menu.temporarypasswords</key>
@@ -285,11 +285,11 @@
  </entry>
  <entry>
   <key>menu.talkpower.request</key>
-  <value>Request Talk Power</value>
+  <value>Richiedi il Potere di Parlare</value>
  </entry>
  <entry>
   <key>menu.talkpower.cancel</key>
-  <value>Cancel Talk Power request</value>
+  <value>Annulla la richiesta del Potere di Parlare</value>
  </entry>
  <entry>
   <key>menu.talkpower.reason.text</key>
@@ -301,7 +301,7 @@
  </entry>
  <entry>
   <key>menu.privkey</key>
-  <value>Use Privilege Key</value>
+  <value>Usa Chiave Privilegi</value>
  </entry>
  <entry>
   <key>chat.newmessages</key>
@@ -325,7 +325,7 @@
  </entry>
  <entry>
   <key>blacklist.text</key>
-  <value>Questo server è blacklistato. Refusing to connect.</value>
+  <value>Questo server è blacklistato. Connessione non riuscita.</value>
  </entry>
  <entry>
   <key>contentdownloader.error</key>
@@ -337,11 +337,11 @@
  </entry>
  <entry>
   <key>contentdownloader.extracting</key>
-  <value>Extracting %1$s</value>
+  <value>Estrazione %1$s</value>
  </entry>
  <entry>
   <key>contentdownloader.wlan</key>
-  <value>Please connect to a WLAN</value>
+  <value>Perfavore connettiti alla WLAN</value>
  </entry>
  <entry>
   <key>contentdownloader.updateinfo.info</key>
@@ -353,7 +353,7 @@
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.text</key>
-  <value>Server "%1$s" is selected</value>
+  <value>E' selezionato il server "%1$s"</value>
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.buttonpw</key>
@@ -373,23 +373,23 @@
  </entry>
  <entry>
   <key>dialog.channel.delete.warn1</key>
-  <value>There are clients inside this channel.\nReally delete this channel\nand kick all clients out of it?</value>
+  <value>Ci sono clients all'interno di questo canale.\nVuoi veramente eliminare questo canale\ne kickare tutti gli utenti?</value>
  </entry>
  <entry>
   <key>dialog.channel.delete.warn2</key>
-  <value>There are subchannel(s) inside this channel.\nReally delete them all?</value>
+  <value>Ci sono sotto-canali in questo canale.\nVuoi veramente eliminarli tutti?</value>
  </entry>
  <entry>
   <key>dialog.channel.delete.warn3</key>
-  <value>Really delete this channel?</value>
+  <value>Vuoi veramente eliminare questo canale?</value>
  </entry>
  <entry>
   <key>dialog.channel.delete.dialog.text</key>
-  <value>Delete Channel: %1$s</value>
+  <value>Elimina Canale: %1$s</value>
  </entry>
  <entry>
   <key>dialog.channel.delete.text</key>
-  <value>Delete Channel</value>
+  <value>Elimina Canale</value>
  </entry>
  <entry>
   <key>dialog.channel.move.text</key>
@@ -397,19 +397,19 @@
  </entry>
  <entry>
   <key>dialog.channel.move.info</key>
-  <value>Move Channel: %1$s</value>
+  <value>Muovi Canale: %1$s</value>
  </entry>
  <entry>
   <key>dialog.channel.move.info1</key>
-  <value>Place Below</value>
+  <value>Piazza Sotto</value>
  </entry>
  <entry>
   <key>dialog.channel.move.info2</key>
-  <value>Place Inside</value>
+  <value>Piazza Dentro</value>
  </entry>
  <entry>
   <key>dialog.channel.subscribe.text1</key>
-  <value>Subscribe</value>
+  <value>Sottoscriviti</value>
  </entry>
  <entry>
   <key>dialog.channel.subscribe.text2</key>
@@ -441,7 +441,7 @@
  </entry>
  <entry>
   <key>channeldialog.edittype.spinner</key>
-  <value>Temporary,Semi-Permanent,Permanent</value>
+  <value>Temporaneo,Semi-Permanente,Permanente</value>
  </entry>
  <entry>
   <key>channeldialog.editdefault</key>
@@ -457,7 +457,7 @@
  </entry>
  <entry>
   <key>channeldialog.editquality.text</key>
-  <value>Quality:</value>
+  <value>Qualità:</value>
  </entry>
  <entry>
   <key>clientdialog.ban.info</key>
@@ -477,7 +477,7 @@
  </entry>
  <entry>
   <key>clientdialog.ban.duration.array</key>
-  <value>Minuto/i, Ora/e, Giorno/i, Permanente</value>
+  <value>Minuto/i,Ora/e,Giorno/i,Permanente</value>
  </entry>
  <entry>
   <key>clientdialog.ban.button</key>
@@ -485,19 +485,19 @@
  </entry>
  <entry>
   <key>clientdialog.complain.text</key>
-  <value>Complain over %1$s \nReason:</value>
+  <value>Reclama su %1$s \nMotivazione:</value>
  </entry>
  <entry>
   <key>clientdialog.complain.info</key>
-  <value>Complain</value>
+  <value>Reclama</value>
  </entry>
  <entry>
   <key>clientdialog.kick.text.server</key>
-  <value>Kick %1$s from server! \nReason:</value>
+  <value>Kicka %1$s dal server! \nMotivazione:</value>
  </entry>
  <entry>
   <key>clientdialog.kick.text.channel</key>
-  <value>Kick %1$s from channel! \nReason:</value>
+  <value>Kicka %1$s dal canale! \nMotivazione:</value>
  </entry>
  <entry>
   <key>clientdialog.kick.info</key>
@@ -505,7 +505,7 @@
  </entry>
  <entry>
   <key>clientdialog.poke.text</key>
-  <value>Poke %1$s \nMessage:</value>
+  <value>Pokka %1$s \nMessaggio:</value>
  </entry>
  <entry>
   <key>clientdialog.poke.info</key>
@@ -513,7 +513,7 @@
  </entry>
  <entry>
   <key>dialog.client.contact.text</key>
-  <value>Contact</value>
+  <value>Contatta</value>
  </entry>
  <entry>
   <key>dialog.client.info.text</key>
@@ -525,7 +525,7 @@
  </entry>
  <entry>
   <key>dialog.client.complain.text</key>
-  <value>Complain</value>
+  <value>Reclama</value>
  </entry>
  <entry>
   <key>dialog.client.mute.text1</key>
@@ -541,11 +541,11 @@
  </entry>
  <entry>
   <key>dialog.client.kickserver.text</key>
-  <value>Kick dal server</value>
+  <value>Kicka dal server</value>
  </entry>
  <entry>
   <key>dialog.client.kickchannel.text</key>
-  <value>Kick dal canale</value>
+  <value>Kicka dal canale</value>
  </entry>
  <entry>
   <key>dialog.client.priorityspeaker.text</key>
@@ -621,11 +621,11 @@
  </entry>
  <entry>
   <key>temppass.create.notarget</key>
-  <value>-- NO TARGET CHANNEL --</value>
+  <value>-- NO CANALE SELEZIONATO --</value>
  </entry>
  <entry>
   <key>temppass.create.duration.array</key>
-  <value>Giorno/i, Ora/e, Minuto/i</value>
+  <value>Giorno/i,Ora/e,Minuto/i</value>
  </entry>
  <entry>
   <key>temppass.info.password</key>
@@ -729,7 +729,7 @@
  </entry>
  <entry>
   <key>identity.text</key>
-  <value>Are you sure you want to remove this Identity?</value>
+  <value>Sei sicuro di voler rimuovere questa Identità?</value>
  </entry>
  <entry>
   <key>channelinfo.name</key>
@@ -745,7 +745,7 @@
  </entry>
  <entry>
   <key>channelinfo.codecquality</key>
-  <value>Codec Quality:</value>
+  <value>Qualità Codec:</value>
  </entry>
  <entry>
   <key>channelinfo.type</key>
@@ -801,7 +801,7 @@
  </entry>
  <entry>
   <key>channelinfo.value.semipermanent</key>
-  <value>Semi-Permanent</value>
+  <value>Semi-Permanente</value>
  </entry>
  <entry>
   <key>channelinfo.value.password</key>
@@ -813,7 +813,7 @@
  </entry>
  <entry>
   <key>channelinfo.value.notsubscribed</key>
-  <value>not subscribed</value>
+  <value>non sottoscritto</value>
  </entry>
  <entry>
   <key>clientinfo.nickname</key>
@@ -837,11 +837,11 @@
  </entry>
  <entry>
   <key>clientinfo.value.grouperror</key>
-  <value>Missing group %1$s</value>
+  <value>Gruppo mancante %1$s</value>
  </entry>
  <entry>
   <key>clientinfo.value.talkpower</key>
-  <value>Client requested Talk Power at %1$s \n(%2$s)\n</value>
+  <value>Un client richiede il Potere di Parlare in %1$s \n(%2$s)\n</value>
  </entry>
  <entry>
   <key>disconnect.info</key>
@@ -893,11 +893,11 @@
  </entry>
  <entry>
   <key>messages.newserver.text</key>
-  <value>This is a newly configured server for which administrator privileges have not been claimed.\nPlease enter the Privilege Key that was automatically generated when this server was created to gain administrator privileges</value>
+  <value>Si tratta di un server appena configurato per il quale i permessi di amministratore non sono stati rivendicati.\nSi prega di inserire la Chiave Privilegi che è stata generata automaticamente quando il server è stato creato per ottenere i permessi di amministratore</value>
  </entry>
  <entry>
   <key>messages.newserver.info</key>
-  <value>Use Privilege Key</value>
+  <value>Usa Chiave Privilegi</value>
  </entry>
  <entry>
   <key>messages.hostmessage</key>
@@ -933,7 +933,7 @@
  </entry>
  <entry>
   <key>messages.error.text</key>
-  <value>Error</value>
+  <value>Errore</value>
  </entry>
  <entry>
   <key>messages.permerror.text</key>
@@ -1005,7 +1005,7 @@
  </entry>
  <entry>
   <key>messages.error.securitylevel</key>
-  <value>Insufficiente livello di sicurezza di identità per questo server\nSi prega di importare un identità con almeno il livello %1$s.</value>
+  <value>Insufficiente livello di sicurezza di identità per questo server\nSi prega di importare un'identità con almeno il livello %1$s.</value>
  </entry>
  <entry>
   <key>messages.clientoutdated.text1</key>
@@ -1049,15 +1049,15 @@
  </entry>
  <entry>
   <key>channelinfo.desc.permerror</key>
-  <value>***You don't have the permission to view the description of this channel***</value>
+  <value>***Non hai il permesso per vedere la descrizione di questo canale***</value>
  </entry>
  <entry>
   <key>messages.forceptt.text</key>
-  <value>Forced Push-To-Talk</value>
+  <value>Push-To-Talk Forzato</value>
  </entry>
  <entry>
   <key>messages.forceptt.on</key>
-  <value>Turning Push-To-Talk on, "forced-push-to-talk" permission was assigned.</value>
+  <value>Attivazione del Push-To-Talk, è stato assegnato il permesso "forced-push-to-talk".</value>
  </entry>
  <entry>
   <key>chat.connected</key>
@@ -1117,11 +1117,11 @@
  </entry>
  <entry>
   <key>event.chat.closed</key>
-  <value>Chat partner has closed the conversation</value>
+  <value>Il partner di chat ha chiuso la conversazione</value>
  </entry>
  <entry>
   <key>messages.forceptt.off</key>
-  <value>Turning voice activation on, "forced-push-to-talk" permission has been removed.</value>
+  <value>Attivazione del voice activation, il permesso "forced-push-to-talk" è stato rimosso.</value>
  </entry>
  <entry>
   <key>event.client.disconnected</key>
