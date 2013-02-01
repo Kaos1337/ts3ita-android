@@ -85,7 +85,7 @@
  </entry>
  <entry>
   <key>bookmark.entry.defaultchannelpassword</key>
-  <value>Chan-PW:</value>
+  <value>PW-Can:</value>
  </entry>
  <entry>
   <key>bookmark.entry.ident</key>
@@ -173,7 +173,7 @@
  </entry>
  <entry>
   <key>settings.callstatus.text</key>
-  <value>Set an away message during a Phonecall</value>
+  <value>Imposta un messaggio d'assenza durante una telefonata</value>
  </entry>
  <entry>
   <key>settings.channelheight</key>
@@ -189,7 +189,7 @@
  </entry>
  <entry>
   <key>settings.clientheight.text</key>
-  <value>Set the height between clients</value>
+  <value>Imposta l'altezza tra i canali</value>
  </entry>
  <entry>
   <key>settings.seperator</key>
@@ -345,7 +345,7 @@
  </entry>
  <entry>
   <key>contentdownloader.updateinfo.info</key>
-  <value>Content Update</value>
+  <value>Aggiornamento Contenuti</value>
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.info</key>
@@ -413,11 +413,11 @@
  </entry>
  <entry>
   <key>dialog.channel.subscribe.text2</key>
-  <value>Unsubscribe</value>
+  <value>Cancellati</value>
  </entry>
  <entry>
   <key>channeldialog.editname</key>
-  <value>Name:</value>
+  <value>Nome:</value>
  </entry>
  <entry>
   <key>channeldialog.editpassword</key>
@@ -429,15 +429,15 @@
  </entry>
  <entry>
   <key>channeldialog.editdesc</key>
-  <value>Description:</value>
+  <value>Descrizione:</value>
  </entry>
  <entry>
   <key>channeldialog.editdesc.dialog</key>
-  <value>Description</value>
+  <value>Descrizione</value>
  </entry>
  <entry>
   <key>channeldialog.edittype</key>
-  <value>Channel Type:</value>
+  <value>Tipologia Canale:</value>
  </entry>
  <entry>
   <key>channeldialog.edittype.spinner</key>
@@ -445,7 +445,7 @@
  </entry>
  <entry>
   <key>channeldialog.editdefault</key>
-  <value>Default:</value>
+  <value>Predefinito:</value>
  </entry>
  <entry>
   <key>channeldialog.editpreset.text</key>
@@ -465,19 +465,19 @@
  </entry>
  <entry>
   <key>clientdialog.ban.name</key>
-  <value>Name/ID:</value>
+  <value>Nome/ID:</value>
  </entry>
  <entry>
   <key>clientdialog.ban.reason</key>
-  <value>Reason:</value>
+  <value>Motivazione:</value>
  </entry>
  <entry>
   <key>clientdialog.ban.duration</key>
-  <value>Duration:</value>
+  <value>Durata:</value>
  </entry>
  <entry>
   <key>clientdialog.ban.duration.array</key>
-  <value>Minute(s),Hour(s),Day(s),Permanent</value>
+  <value>Minuto/i, Ora/e, Giorno/i, Permanente</value>
  </entry>
  <entry>
   <key>clientdialog.ban.button</key>
@@ -517,7 +517,7 @@
  </entry>
  <entry>
   <key>dialog.client.info.text</key>
-  <value>Client Info</value>
+  <value>Info Client</value>
  </entry>
  <entry>
   <key>dialog.client.poke.text</key>
@@ -529,11 +529,11 @@
  </entry>
  <entry>
   <key>dialog.client.mute.text1</key>
-  <value>Mute</value>
+  <value>Muta</value>
  </entry>
  <entry>
   <key>dialog.client.mute.text2</key>
-  <value>Unmute</value>
+  <value>Smuta</value>
  </entry>
  <entry>
   <key>dialog.client.ban.text</key>
@@ -541,31 +541,31 @@
  </entry>
  <entry>
   <key>dialog.client.kickserver.text</key>
-  <value>Kick from server</value>
+  <value>Kick dal server</value>
  </entry>
  <entry>
   <key>dialog.client.kickchannel.text</key>
-  <value>Kick from channel</value>
+  <value>Kick dal canale</value>
  </entry>
  <entry>
   <key>dialog.client.priorityspeaker.text</key>
-  <value>Priority Speaker</value>
+  <value>Priorità nel Parlare</value>
  </entry>
  <entry>
   <key>dialog.client.move.text</key>
-  <value>Move Client</value>
+  <value>Muovi Client</value>
  </entry>
  <entry>
   <key>dialog.client.move.dialog.info</key>
-  <value>Move</value>
+  <value>Muovi</value>
  </entry>
  <entry>
   <key>dialog.client.move.dialog.text</key>
-  <value>Move Client:</value>
+  <value>Muovi Client:</value>
  </entry>
  <entry>
   <key>dialog.client.chat.text</key>
-  <value>Open Chat</value>
+  <value>Apri Chat</value>
  </entry>
  <entry>
   <key>dialog.client.talkpower.text1</key>
@@ -573,19 +573,19 @@
  </entry>
  <entry>
   <key>dialog.client.talkpower.text2</key>
-  <value>Revoke Talk Power</value>
+  <value>Rimuovi il Potere di Parlare</value>
  </entry>
  <entry>
   <key>dialog.client.group.text</key>
-  <value>Set Groups</value>
+  <value>Imposta Gruppi</value>
  </entry>
  <entry>
   <key>groupdialog.servertext</key>
-  <value>Server Group:</value>
+  <value>Gruppo Server:</value>
  </entry>
  <entry>
   <key>groupdialog.channeltext</key>
-  <value>Channel Group:</value>
+  <value>Grouppo Canale:</value>
  </entry>
  <entry>
   <key>temppass.entry.text</key>
@@ -593,11 +593,11 @@
  </entry>
  <entry>
   <key>temppass.entry.until</key>
-  <value>Until: %1$s</value>
+  <value>Fino a: %1$s</value>
  </entry>
  <entry>
   <key>temppass.title</key>
-  <value>Temporary Password</value>
+  <value>Password Temporanea</value>
  </entry>
  <entry>
   <key>temppass.create.password</key>
@@ -605,19 +605,19 @@
  </entry>
  <entry>
   <key>temppass.create.description</key>
-  <value>Description:</value>
+  <value>Descrizione:</value>
  </entry>
  <entry>
   <key>temppass.create.duration</key>
-  <value>Expires after:</value>
+  <value>Scade dopo:</value>
  </entry>
  <entry>
   <key>temppass.create.channel</key>
-  <value>Channel:</value>
+  <value>Canale:</value>
  </entry>
  <entry>
   <key>temppass.create.channelpw</key>
-  <value>Channel password:</value>
+  <value>Password Canale:</value>
  </entry>
  <entry>
   <key>temppass.create.notarget</key>
@@ -625,7 +625,7 @@
  </entry>
  <entry>
   <key>temppass.create.duration.array</key>
-  <value>Day(s),Hour(s),Minute(s)</value>
+  <value>Giorno/i, Ora/e, Minuto/i</value>
  </entry>
  <entry>
   <key>temppass.info.password</key>
@@ -633,99 +633,99 @@
  </entry>
  <entry>
   <key>temppass.info.creator</key>
-  <value>Creator:</value>
+  <value>Creatore:</value>
  </entry>
  <entry>
   <key>temppass.info.channel</key>
-  <value>Channel:</value>
+  <value>Canale:</value>
  </entry>
  <entry>
   <key>temppass.info.channelpassword</key>
-  <value>Channel password:</value>
+  <value>Password canale:</value>
  </entry>
  <entry>
   <key>temppass.info.valid</key>
-  <value>Valid:</value>
+  <value>Valida:</value>
  </entry>
  <entry>
   <key>temppass.info.description</key>
-  <value>Description:</value>
+  <value>Descrizione:</value>
  </entry>
  <entry>
   <key>temppass.info.button.share</key>
-  <value>Share</value>
+  <value>Condividi</value>
  </entry>
  <entry>
   <key>contact.settings.name</key>
-  <value>Custom Name:</value>
+  <value>Nome Personalizzato:</value>
  </entry>
  <entry>
   <key>contact.settings.display</key>
-  <value>Display:</value>
+  <value>Mostra:</value>
  </entry>
  <entry>
   <key>contact.settings.ignore</key>
-  <value>Ignore:</value>
+  <value>Ignora:</value>
  </entry>
  <entry>
   <key>contact.settings.whisper</key>
-  <value>Whisper:</value>
+  <value>Bisbiglio:</value>
  </entry>
  <entry>
   <key>contact.settings.whisper.allow</key>
-  <value>Allow</value>
+  <value>Permetti</value>
  </entry>
  <entry>
   <key>contact.settings.whisper.deny</key>
-  <value>Deny</value>
+  <value>Nega</value>
  </entry>
  <entry>
   <key>contact.settings.mute</key>
-  <value>Mute</value>
+  <value>Muta</value>
  </entry>
  <entry>
   <key>contact.settings.ignorepublicchat</key>
-  <value>Ignore public chat</value>
+  <value>Ignora la chat pubblica</value>
  </entry>
  <entry>
   <key>contact.settings.ignoreprivatechat</key>
-  <value>Ignore private chat</value>
+  <value>Ignora la chat privata</value>
  </entry>
  <entry>
   <key>contact.settings.ignorepokes</key>
-  <value>Ignore pokes</value>
+  <value>Ignora i pokes</value>
  </entry>
  <entry>
   <key>contact.settings.hideavatar</key>
-  <value>Hide avatar</value>
+  <value>Nascondi l'avatar</value>
  </entry>
  <entry>
   <key>contact.settings.hideaway</key>
-  <value>Hide away status </value>
+  <value>Nascondi lo status d'assenza</value>
  </entry>
  <entry>
   <key>contact.settings.status.array</key>
-  <value>Neutral,Blocked,Friend</value>
+  <value>Neutrale,Bloccato,Amico</value>
  </entry>
  <entry>
   <key>contact.settings.display.array</key>
-  <value>Custom and Nickname,Only Custom Name,Only Nickname</value>
+  <value>Nickname Personale,Solo Nome Personale,Solo Nickname</value>
  </entry>
  <entry>
   <key>contact.settings.info</key>
-  <value>Contact: %1$s</value>
+  <value>Contatti: %1$s</value>
  </entry>
  <entry>
   <key>passworddialog.info</key>
-  <value>Join %1$s</value>
+  <value>Entra %1$s</value>
  </entry>
  <entry>
   <key>passworddialog.text</key>
-  <value>Enter the password for %1$s:</value>
+  <value>Immetti la password per %1$s:</value>
  </entry>
  <entry>
   <key>identity.info</key>
-  <value>Delete Identity</value>
+  <value>Elimina Identità</value>
  </entry>
  <entry>
   <key>identity.text</key>
@@ -733,11 +733,11 @@
  </entry>
  <entry>
   <key>channelinfo.name</key>
-  <value>Name:</value>
+  <value>Nome:</value>
  </entry>
  <entry>
   <key>channelinfo.topic</key>
-  <value>Topic:</value>
+  <value>Argomento:</value>
  </entry>
  <entry>
   <key>channelinfo.codec</key>
@@ -749,19 +749,19 @@
  </entry>
  <entry>
   <key>channelinfo.type</key>
-  <value>Type:</value>
+  <value>Tipo:</value>
  </entry>
  <entry>
   <key>channelinfo.currentclients</key>
-  <value>Current Clients:</value>
+  <value>Clients Correnti:</value>
  </entry>
  <entry>
   <key>channelinfo.subscription</key>
-  <value>Subscription Status:</value>
+  <value>Stato di Sottoscrizione:</value>
  </entry>
  <entry>
   <key>channelinfo.description</key>
-  <value>Description:</value>
+  <value>Descrizione:</value>
  </entry>
  <entry>
   <key>channelinfo.codec.1</key>
@@ -789,15 +789,15 @@
  </entry>
  <entry>
   <key>channelinfo.codec.error</key>
-  <value>Error</value>
+  <value>Errore</value>
  </entry>
  <entry>
   <key>channelinfo.value.default</key>
-  <value>Default</value>
+  <value>Predefinito</value>
  </entry>
  <entry>
   <key>channelinfo.value.permanent</key>
-  <value>Permanent</value>
+  <value>Permanente</value>
  </entry>
  <entry>
   <key>channelinfo.value.semipermanent</key>
@@ -809,7 +809,7 @@
  </entry>
  <entry>
   <key>channelinfo.value.subscribed</key>
-  <value>subscribed</value>
+  <value>sottoscritto</value>
  </entry>
  <entry>
   <key>channelinfo.value.notsubscribed</key>
@@ -821,19 +821,19 @@
  </entry>
  <entry>
   <key>clientinfo.version</key>
-  <value>Version:</value>
+  <value>Versione:</value>
  </entry>
  <entry>
   <key>clientinfo.connected</key>
-  <value>Online since:</value>
+  <value>Online da:</value>
  </entry>
  <entry>
   <key>clientinfo.sgroup</key>
-  <value>Server Groups:</value>
+  <value>Gruppi Server:</value>
  </entry>
  <entry>
   <key>clientinfo.cgroup</key>
-  <value>Channel Group:</value>
+  <value>Gruppo Canale:</value>
  </entry>
  <entry>
   <key>clientinfo.value.grouperror</key>
@@ -845,51 +845,51 @@
  </entry>
  <entry>
   <key>disconnect.info</key>
-  <value>Disconnect!</value>
+  <value>Disconnettiti!</value>
  </entry>
  <entry>
   <key>disconnect.text</key>
-  <value>Really disconnect from server?</value>
+  <value>Ti vuoi veramente disconnettere da questo server?</value>
  </entry>
  <entry>
   <key>disconnect.button</key>
-  <value>Disconnect</value>
+  <value>Disconnettiti</value>
  </entry>
  <entry>
   <key>connectiondialog.info</key>
-  <value>Connecting...</value>
+  <value>Connessione...</value>
  </entry>
  <entry>
   <key>connectiondialog.step0</key>
-  <value>Trying to connect</value>
+  <value>Tentando di connettersi</value>
  </entry>
  <entry>
   <key>connectiondialog.step1</key>
-  <value>Connected</value>
+  <value>Connesso</value>
  </entry>
  <entry>
   <key>connectiondialog.step2</key>
-  <value>Loading channel</value>
+  <value>Caricamento canale</value>
  </entry>
  <entry>
   <key>connectiondialog.step3</key>
-  <value>Loading user</value>
+  <value>Caricamento utenti</value>
  </entry>
  <entry>
   <key>gui.extern.info</key>
-  <value>TS3 URL</value>
+  <value>URL TS3</value>
  </entry>
  <entry>
   <key>gui.extern.text</key>
-  <value>Found the following host:\n%1$s</value>
+  <value>Trovato l'host seguente:\n%1$s</value>
  </entry>
  <entry>
   <key>gui.extern.button1</key>
-  <value>Connect</value>
+  <value>Connettiti</value>
  </entry>
  <entry>
   <key>gui.extern.button2</key>
-  <value>Bookmark</value>
+  <value>Preferito</value>
  </entry>
  <entry>
   <key>messages.newserver.text</key>
@@ -901,35 +901,35 @@
  </entry>
  <entry>
   <key>messages.hostmessage</key>
-  <value>Host Message</value>
+  <value>Messaggio Host</value>
  </entry>
  <entry>
   <key>messages.notification.info</key>
-  <value>Connected</value>
+  <value>Connesso</value>
  </entry>
  <entry>
   <key>messages.notification.text</key>
-  <value>You are connected to:</value>
+  <value>Sei connesso a:</value>
  </entry>
  <entry>
   <key>messages.servershutdown.text</key>
-  <value>Server shutdown</value>
+  <value>Server spento</value>
  </entry>
  <entry>
   <key>messages.serverpermission.text</key>
-  <value>Server Permission</value>
+  <value>Permesso server</value>
  </entry>
  <entry>
   <key>messages.pwerror.text</key>
-  <value>Wrong password</value>
+  <value>Password errata</value>
  </entry>
  <entry>
   <key>messages.clienterror.text</key>
-  <value>Client error</value>
+  <value>Errore client</value>
  </entry>
  <entry>
   <key>messages.channelerror.text</key>
-  <value>Channel error</value>
+  <value>Errore canale</value>
  </entry>
  <entry>
   <key>messages.error.text</key>
@@ -937,51 +937,51 @@
  </entry>
  <entry>
   <key>messages.permerror.text</key>
-  <value>Permission Error</value>
+  <value>Errore Permesso</value>
  </entry>
  <entry>
   <key>messages.conerror.text</key>
-  <value>Connection Error</value>
+  <value>Errore Connessione</value>
  </entry>
  <entry>
   <key>messages.disconnected.text</key>
-  <value>Disconnected</value>
+  <value>Disconnesso</value>
  </entry>
  <entry>
   <key>messages.disconnected.info</key>
-  <value>Connection Status</value>
+  <value>Stato Connessione</value>
  </entry>
  <entry>
   <key>messages.ban.text</key>
-  <value>Banned by: "%1$s"\nDuration: "%2$s"\nReason: "(%3$s)"</value>
+  <value>Bannato da: "%1$s"\nDurata: "%2$s"\nMotivazione: "(%3$s)"</value>
  </entry>
  <entry>
   <key>messages.ban.text.permanent</key>
-  <value>You are banned permanently. Reason: "(%1$s)"</value>
+  <value>Sei bannato permanentemente. Motivazione: "(%1$s)"</value>
  </entry>
  <entry>
   <key>messages.ban.info</key>
-  <value>Banned from server</value>
+  <value>Bannato dal server</value>
  </entry>
  <entry>
   <key>messages.kicked.info</key>
-  <value>Kicked from server</value>
+  <value>Kickato dal server</value>
  </entry>
  <entry>
   <key>messages.poke.info</key>
-  <value>Poke from %1$s</value>
+  <value>Poke da %1$s</value>
  </entry>
  <entry>
   <key>settings.clientclick</key>
-  <value>Long click on client</value>
+  <value>Click prolungato sul client</value>
  </entry>
  <entry>
   <key>settings.clientclick.text</key>
-  <value>Disable this for dragging a user left or right</value>
+  <value>Disabilita questo per trascinare un utente a sinistra o a destra</value>
  </entry>
  <entry>
   <key>ident.file.error.info</key>
-  <value>Error</value>
+  <value>Errore</value>
  </entry>
  <entry>
   <key>ident.file.error.text1</key>
