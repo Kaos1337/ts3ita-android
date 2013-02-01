@@ -1,6 +1,6 @@
 <settings>
-  <lng>English</lng>
-  <translator>TeamSpeak Systems GmbH</translator>
+  <lng>Italiano</lng>
+  <translator>TeamSpeak Italia</translator>
 </settings>
 <lang>
  <entry>
@@ -309,27 +309,27 @@
  </entry>
  <entry>
   <key>contact.delete.info</key>
-  <value>Delete Contact</value>
+  <value>Elimina Contatto</value>
  </entry>
  <entry>
   <key>contact.delete.text</key>
-  <value>Do you want to delete %1$s ?</value>
+  <value>Vuoi eliminare questo %1$s ?</value>
  </entry>
  <entry>
   <key>codec.warning</key>
-  <value>Requires 3G or better</value>
+  <value>Richiede il 3G o migliore</value>
  </entry>
  <entry>
   <key>blacklist.warning</key>
-  <value>This Server is blacklisted</value>
+  <value>Questo server è blacklistato</value>
  </entry>
  <entry>
   <key>blacklist.text</key>
-  <value>This server is blacklisted. Refusing to connect.</value>
+  <value>Questo server è blacklistato. Refusing to connect.</value>
  </entry>
  <entry>
   <key>contentdownloader.error</key>
-  <value>An error occurred!</value>
+  <value>Si è verificato un errore!</value>
  </entry>
  <entry>
   <key>contentdownloader.info</key>
@@ -349,7 +349,7 @@
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.info</key>
-  <value>Edit Virtual Server</value>
+  <value>Modifica Server Virtuale</value>
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.text</key>
@@ -357,19 +357,19 @@
  </entry>
  <entry>
   <key>dialog.virtualserver.edit.buttonpw</key>
-  <value>Temp Password</value>
+  <value>Password Temporanea</value>
  </entry>
  <entry>
   <key>dialog.channel.join.text</key>
-  <value>Join Channel</value>
+  <value>Entra nel Canale</value>
  </entry>
  <entry>
   <key>dialog.channel.info.text</key>
-  <value>Channel Info</value>
+  <value>Info Canale</value>
  </entry>
  <entry>
   <key>dialog.channel.edit.text</key>
-  <value>Edit Channel</value>
+  <value>Modifica Canale</value>
  </entry>
  <entry>
   <key>dialog.channel.delete.warn1</key>
@@ -393,7 +393,7 @@
  </entry>
  <entry>
   <key>dialog.channel.move.text</key>
-  <value>Move Channel</value>
+  <value>Muovi Canale</value>
  </entry>
  <entry>
   <key>dialog.channel.move.info</key>
