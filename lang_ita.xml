@@ -1093,7 +1093,7 @@
  </entry>
  <entry>
   <key>event.client.move.d</key>
-  <value>"%1$s" left heading to channel "%2$s"</value>
+  <value>"%1$s" è uscito andando nel canale "%2$s"</value>
  </entry>
  <entry>
   <key>event.client.move.e</key>
