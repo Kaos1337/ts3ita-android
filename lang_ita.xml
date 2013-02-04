@@ -32,6 +32,10 @@
   <value>Salva</value>
  </entry>
  <entry>
+  <key>button.open</key>
+  <value>Apri</value>
+ </entry>
+ <entry>
   <key>virtualservereditdialog.hmessage.array</key>
   <value>No messaggio (NONE),Mostra il messaggio in Log (LOG),Mostra messaggio modale (MODAL),Mostra messaggio modale ed esci (MODALQUIT)</value>
  </entry>
@@ -1210,5 +1214,33 @@
  <entry>
   <key>connection.reconnect.text</key>
   <value>Riconnessione fallita dopo %1$d tentativi</value>
+ </entry>
+ <entry>
+  <key>settings.spacer.system</key>
+  <value>Sistema</value>
+ </entry>
+ <entry>
+  <key>settings.debuglog</key>
+  <value>Crea file log</value>
+ </entry>
+ <entry>
+  <key>settings.debuglog.text</key>
+  <value>Questa opzione potrebbe causare problemi durante il collegamento al PC</value>
+ </entry>
+ <entry>
+  <key>changelog.info</key>
+  <value>Cambiamenti</value>
+ </entry>
+ <entry>
+  <key>changelog.forceupdate</key>
+  <value>Forza ControlloAggiornamenti</value>
+ </entry>
+ <entry>
+  <key>contactbug.info</key>
+  <value>Contatti</value>
+ </entry>
+ <entry>
+  <key>contactbug.text</key>
+  <value>Perfavore visita il forum Android Beta Test @ www.teamspeak.com</value>
  </entry>
 </lang>
