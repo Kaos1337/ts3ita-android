@@ -240,6 +240,18 @@
   <value>Interfaccia</value>
  </entry>
  <entry>
+  <key>settings.whisper</key>
+  <value>Bisbiglio</value>
+ </entry>
+ <entry>
+  <key>settings.whisper.text</key>
+  <value>Permesso per ricevere i Bisbigli</value>
+ </entry>
+ <entry>
+  <key>settings.whisper.array</key>
+  <value>Usa contatto\, altrimenti permetti,Usa contatto\, altrimenti nega,Nega tutto</value>    
+ </entry>
+ <entry>
   <key>menu.copyright.text</key>
   <value>Copyright:</value>
  </entry>
