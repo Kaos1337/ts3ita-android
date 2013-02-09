@@ -320,6 +320,10 @@
   <value>Usa Chiave Privilegi</value>
  </entry>
  <entry>
+  <key>menu.contactbug</key>
+  <value>Contatta / Bugreport</value>
+ </entry>
+ <entry>
   <key>chat.newmessages</key>
   <value>Nuovo/i Messaggio/i</value>
  </entry>
