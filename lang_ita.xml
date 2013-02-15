@@ -69,31 +69,31 @@
  </entry>
  <entry>
   <key>bookmark.entry.label</key>
-  <value>Etichetta:</value>
+  <value>Etichetta</value>
  </entry>
  <entry>
   <key>bookmark.entry.serveraddress</key>
-  <value>Indirizzo:</value>
+  <value>Indirizzo</value>
  </entry>
  <entry>
   <key>bookmark.entry.serverpassword</key>
-  <value>PW Server:</value>
+  <value>Pass Server</value>
  </entry>
  <entry>
   <key>bookmark.entry.nickname</key>
-  <value>Nick:</value>
+  <value>Nickname</value>
  </entry>
  <entry>
   <key>bookmark.entry.defaultchannel</key>
-  <value>Canale:</value>
+  <value>Canale</value>
  </entry>
  <entry>
   <key>bookmark.entry.defaultchannelpassword</key>
-  <value>PW Canale:</value>
+  <value>Pass Canale</value>
  </entry>
  <entry>
   <key>bookmark.entry.ident</key>
-  <value>Identità:</value>
+  <value>Identità</value>
  </entry>
  <entry>
   <key>bookmark.entry.title</key>
@@ -205,7 +205,7 @@
  </entry>
  <entry>
   <key>settings.queryclient</key>
-  <value>Mostra o nascondi il client ServerQuery nella TreeView</value>
+  <value>Mostra il client ServerQuery</value>
  </entry>
  <entry>
   <key>settings.queryclient.text</key>
@@ -289,7 +289,7 @@
  </entry>
  <entry>
   <key>menu.away.revoke</key>
-  <value>Ritorna</value>
+  <value>Imposta Online</value>
  </entry>
  <entry>
   <key>menu.away.text</key>
@@ -677,19 +677,19 @@
  </entry>
  <entry>
   <key>contact.settings.name</key>
-  <value>Nome Personalizzato:</value>
+  <value>Nome Personalizzato</value>
  </entry>
  <entry>
   <key>contact.settings.display</key>
-  <value>Mostra:</value>
+  <value>Mostra</value>
  </entry>
  <entry>
   <key>contact.settings.ignore</key>
-  <value>Ignora:</value>
+  <value>Ignora</value>
  </entry>
  <entry>
   <key>contact.settings.whisper</key>
-  <value>Bisbiglio:</value>
+  <value>Bisbiglio</value>
  </entry>
  <entry>
   <key>contact.settings.whisper.allow</key>
