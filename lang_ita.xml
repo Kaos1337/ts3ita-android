@@ -500,6 +500,10 @@
   <value>Qualità:</value>
  </entry>
  <entry>
+  <key>channeldialog.create.text</key>
+  <value>Nuovo Canale</value>
+ </entry>
+ <entry>
   <key>clientdialog.ban.info</key>
   <value>Ban</value>
  </entry>
@@ -1278,5 +1282,13 @@
  <entry>
   <key>contactbug.text</key>
   <value>Perfavore visita il forum Android Beta Test @ www.teamspeak.com</value>
+ </entry>
+ <entry>
+  <key>privilegekey.error</key>
+  <value>Errore Chiave Privilegi</value>
+ </entry>
+ <entry>
+  <key>privilegekey.error.text</key>
+  <value>Hai immesso una Chiave Privilegi invalida o una già usata!\nRicordati che una Chiave Privilegi può essere usata solo una volta.</value>
  </entry>
 </lang>
