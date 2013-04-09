@@ -1291,4 +1291,64 @@
   <key>privilegekey.error.text</key>
   <value>Hai immesso una Chiave Privilegi invalida o una già usata!\nRicordati che una Chiave Privilegi può essere usata solo una volta.</value>
  </entry>
+ <entry>
+  <key>critical.tts</key>
+  <value>ERRORE TTS</value>
+ </entry>
+ <entry>
+  <key>critical.tts.text</key>
+  <value>Hai disabilitato il tuo sistema tts o ha incontrato un errore interno, il Sistema è stato resettato alla Voce Femminile.</value>
+ </entry>
+ <entry>
+  <key>channelinfo.unlimited</key>
+  <value>Illimitati</value>
+ </entry>
+ <entry>
+  <key>clientinfo.description</key>
+  <value>Descrizione:</value>
+ </entry>
+ <entry>
+  <key>audiosettings.text</key>
+  <value>Impostazioni audio</value>
+ </entry>
+ <entry>
+  <key>audiosettings.button.start</key>
+  <value>Inizia test</value>
+ </entry>
+ <entry>
+  <key>audiosettings.button.stop</key>
+  <value>Ferma test</value>
+ </entry>
+ <entry>
+  <key>audiosettings.text.play</key>
+  <value>Frequenza riproduzione</value>
+ </entry>
+ <entry>
+  <key>audiosettings.text.rec</key>
+  <value>Frequenza registrazione</value>
+ </entry>
+ <entry>
+  <key>audiosettings.text.playbackstream</key>
+  <value>Riproduzione</value>
+ </entry>
+ <entry>
+  <key>audiosettings.text.recordstream</key>
+  <value>Registrazione</value>
+ </entry>
+ <entry>
+  <key>audiosettings.array.play</key>
+  <value>Chiamata Vocale,Musica</value>
+ </entry>
+ <entry>
+  <key>audiosettings.array.rec</key>
+  <value>Predefinito,Mic,Comunicazione Vocale</value>
+ </entry>
+  <entry>
+  <key>settings.audiosettings</key>
+  <value>Impostazioni audio</value>
+ </entry>
+ <entry>
+  <key>settings.audiosettings.text</key>
+  <value>Impostazioni audio avanzate</value>
+ </entry>
 </lang>
