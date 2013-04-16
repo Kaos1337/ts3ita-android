@@ -1351,4 +1351,32 @@
   <key>settings.audiosettings.text</key>
   <value>Impostazioni audio avanzate</value>
  </entry>
+ <entry>
+  <key>audiosettings.error</key>
+  <value>Errore: Impostazione/Dispositivo non supportata/o</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate</key>
+  <value>Vibra</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate.text</key>
+  <value>Seleziona gli eventi per la vibrazione</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate.text2</key>
+  <value>Vibra per:</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate.chatnew</key>
+  <value>Nuova chat privata</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate.chat</key>
+  <value>Nuovo messaggio privato</value>
+ </entry>
+ <entry>
+  <key>settings.vibrate.poke</key>
+  <value>Poke in arrivo</value>
+ </entry>
 </lang>
