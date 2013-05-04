@@ -1379,4 +1379,16 @@
   <key>settings.vibrate.poke</key>
   <value>Poke in arrivo</value>
  </entry>
+ <entry>
+  <key>event.client.recording.stop</key>
+  <value>"%1$s" ha fermato la registrazione</value>
+ </entry>
+ <entry>
+  <key>event.client.recording.started</key>
+  <value>"%1$s" ha iniziato una registrazione</value>
+ </entry>
+ <entry>
+  <key>event.client.recording.record</key>
+  <value>*** %1$s *** [REGISTRANDO]</value>
+ </entry>
 </lang>
