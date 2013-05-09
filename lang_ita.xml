@@ -1391,4 +1391,44 @@
   <key>event.client.recording.record</key>
   <value>*** %1$s *** [REGISTRANDO]</value>
  </entry>
+ <entry>
+  <key>network.airplane</key>
+  <value>Modalità Aereo</value>
+ </entry>
+ <entry>
+  <key>network.airplane.text</key>
+  <value>Questo dispositivo è in Modalità Aereo, non è possibile connettersi al momento</value>
+ </entry>
+ <entry>
+  <key>network.noconnection</key>
+  <value>Errore di connessione</value>
+ </entry>
+ <entry>
+  <key>network.noconnection.text</key>
+  <value>Non c'è una Connessione di Rete disponibile al momento</value>
+ </entry>
+ <entry>
+  <key>update.info</key>
+  <value>Aggiornamento</value>
+ </entry>
+ <entry>
+  <key>update.info.text</key>
+  <value>C'è un aggiornamento disponibile</value>
+ </entry>
+ <entry>
+  <key>update.button.changelog</key>
+  <value>Changelog Attuale</value>
+ </entry>
+ <entry>
+  <key>update.button.update</key>
+  <value>Avvia Aggiornamento</value>
+ </entry>
+ <entry>
+  <key>tsdns.error</key>
+  <value>Errore TSDNS</value>
+ </entry>
+ <entry>
+  <key>tsdns.error.text</key>
+  <value>Impossibile risolvere l'hostname</value>
+ </entry>
 </lang>
