@@ -1431,4 +1431,168 @@
   <key>tsdns.error.text</key>
   <value>Impossibile risolvere l'hostname</value>
  </entry>
+ <entry>
+  <key>connectioninfo.name</key>
+  <value>Nome</value>
+ </entry> 
+ <entry>
+  <key>connectioninfo.version</key>
+  <value>Versione</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.platform</key>
+  <value>Piattaforma</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.license</key>
+  <value>Licenza</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.uptime</key>
+  <value>Uptime</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.address</key>
+  <value>Indirizzo</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.ip</key>
+  <value>IP</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.ping</key>
+  <value>Ping Medio</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.packetloss</key>
+  <value>Perdita pacchetti media</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.packettrans</key>
+  <value>Pacchetti trasferiti</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.bytetrans</key>
+  <value>Bytes trasferiti</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.bandwidthsec</key>
+  <value>Banda ultimo secondo</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.bandwidthmin</key>
+  <value>Banda ultimo minuto</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.filebandwidth</key>
+  <value>Banda trasferimento file</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.filebyte</key>
+  <value>Bytes trasferiti per i file</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.tablein</key>
+  <value>Dentro</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.tableout</key>
+  <value>Fuori</value>
+ </entry>
+ <entry>
+  <key>connectioninfo.title</key>
+  <value>Info Connessione</value>
+ </entry>
+ <entry>
+  <key>button.serverinfo</key>
+  <value>Info</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.name</key>
+  <value>Nome client</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.contime</key>
+  <value>Tempo connessione</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.idle</key>
+  <value>Tempo d'inattività</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.ping</key>
+  <value>Ping medio</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.saddress</key>
+  <value>Indirizzo server</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.caddress</key>
+  <value>Indirizzo client</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.packettrans</key>
+  <value>Pacchetti trasferiti</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.bytetrans</key>
+  <value>Bytes trasferiti</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.bandwidthsec</key>
+  <value>Banda ultimo secondo</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.bandwidthmin</key>
+  <value>Banda ultimo minuto</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.filebandwidth</key>
+  <value>Banda trasferimento file</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.packloss</key>
+  <value>Pacchetti persi</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.tablein</key>
+  <value>Dentro</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.tableout</key>
+  <value>Fuori</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.loading</key>
+  <value>Ricevendo...</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.title</key>
+  <value>Info Connessione</value>
+ </entry>
+ <entry>
+  <key>connectioninfoclient.iphidden</key>
+  <value>Nascosto</value>
+ </entry>
+ <entry>
+  <key>dialog.client.cinfo.text</key>
+  <value>Info Connessione</value>
+ </entry>
+ <entry>
+  <key>license.no</key>
+  <value>No licenza</value>
+ </entry>
+ <entry>
+  <key>license.licensed</key>
+  <value>Hosting provider con licenza</value>
+ </entry>
+ <entry>
+  <key>license.offline</key>
+  <value>Licenza offline</value>
+ </entry>
+ <entry>
+  <key>license.npl</key>
+  <value>Licenza Non-profit</value>
+ </entry>
 </lang>
