@@ -1595,4 +1595,12 @@
   <key>license.npl</key>
   <value>Licenza Non-profit</value>
  </entry>
+ <entry>
+  <key>settings.talknotification</key>
+  <value>Barra delle notifiche</value>
+ </entry>
+ <entry>
+  <key>settings.talknotification.text</key>
+  <value>Mostra l'icona di TS nella barra delle notifiche e attiva il led (quando il tuo dispositivo è in standby) mentre stai parlando.</value>
+ </entry>
 </lang>
