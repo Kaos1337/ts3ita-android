@@ -1603,4 +1603,28 @@
   <key>settings.talknotification.text</key>
   <value>Mostra l'icona di attivazione microfono nella barra delle notifiche e attiva il led (quando il tuo dispositivo è in standby) mentre stai parlando.</value>
  </entry>
+ <entry>
+  <key>menu.banlist</key>
+  <value>Lista Ban</value>
+ </entry>
+ <entry>
+  <key>banlist.dialog.info</key>
+  <value>Eliminare ban?</value>
+ </entry>
+ <entry>
+  <key>banlist.reason</key>
+  <value>Motivazione:</value>
+ </entry>
+ <entry>
+  <key>banlist.created</key>
+  <value>Creato</value>
+ </entry>
+ <entry>
+  <key>banlist.expires</key>
+  <value>Scade</value>
+ </entry>
+ <entry>
+  <key>banlist.creator</key>
+  <value>Creatore</value>
+ </entry>
 </lang>
