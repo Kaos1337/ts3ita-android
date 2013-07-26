@@ -245,7 +245,7 @@
  </entry>
  <entry>
   <key>settings.whisper.text</key>
-  <value>Permesso per ricevere i Bisbigli</value>
+  <value>Impostazioni per i Bisbigli in arrivo</value>
  </entry>
  <entry>
   <key>settings.pttbsize</key>
@@ -1237,7 +1237,7 @@
  </entry>
  <entry>
   <key>critical.payment.text</key>
-  <value>Google non può verificare il tuo stato di pagamento: %1$d\nPerfavore riprova più tardi o visita l'Android Market!</value>
+  <value>Google non può verificare il tuo stato di pagamento: %1$d\nPerfavore riprova più tardi o visita Google Play per vedere se è già stato rilasciato!</value>
  </entry>
  <entry>
   <key>contact.avatar.ignored</key>
