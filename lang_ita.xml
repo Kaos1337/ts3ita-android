@@ -268,6 +268,26 @@
   <value>Auto,Verticale,Orizzontale</value>
  </entry>
  <entry>
+  <key>settings.fullscreen</key>
+  <value>Tutto Schermo</value>
+ </entry>
+ <entry>
+  <key>settings.fullscreen.text</key>
+  <value>Richiede un riavvio!</value>
+ </entry>
+ <entry>
+  <key>menu.update</key>
+  <value>Aggiorna</value>
+ </entry>
+ <entry>
+  <key>menu.changelog</key>
+  <value>Cambiamenti</value>
+ </entry>
+ <entry>
+  <key>menu.settings</key>
+  <value>Impostazioni</value>
+ </entry>
+ <entry>
   <key>settings.whisper.array</key>
   <value>Usa contatto\, altrimenti permetti,Usa contatto\, altrimenti nega,Nega tutto</value>    
  </entry>
@@ -281,7 +301,7 @@
  </entry>
  <entry>
   <key>menu.identity</key>
-  <value>Idendità</value>
+  <value>Identità</value>
  </entry>
  <entry>
   <key>menu.contact</key>
